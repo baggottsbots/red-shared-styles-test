@@ -1,0 +1,5 @@
+/* ===== AUTOFLOW THEME OVERRIDES ===== */
+    :root{--red:#ff0000}
+    .accent-red{color:var(--red)}
+    .bg-red{background:var(--red)}
+    .border-red{border-color:var(--red)}
